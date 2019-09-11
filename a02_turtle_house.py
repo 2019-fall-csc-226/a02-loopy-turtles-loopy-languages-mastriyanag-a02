@@ -12,7 +12,6 @@
 # licensed under a Creative Commons
 # Attribution-Noncommercial-Share Alike 3.0 United States License.
 ######################################################################
-
 import turtle               # allows us to use the turtles library
 
 turtle.colormode(255)       # change color modes
